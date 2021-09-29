@@ -1,6 +1,6 @@
 # **Pitch Idea**
 
-### *What impact have drone stirkes had on terrorist activity immediatly following a strike?*
+### *What impact have drone strikes had on terrorist activity immediatly following a strike?*
 
 * Data Available
   * The New America Foundation tracks information on U.S. drone strikes aborad, detailing the number of casualties, total strikes, total deaths, total civilian deaths, and total militant deaths. Furthermore, the Global Terrorism Database keeps track of terrorist activities taken by militant groups. 
