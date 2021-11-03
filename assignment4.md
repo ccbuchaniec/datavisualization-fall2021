@@ -4,7 +4,7 @@
 
 ## Question 1: A link to the dataset, your questions, as well as the answers to those questions.
  
-Link to data: 
+Link to data: https://github.com/ccbuchaniec/datavisualization-fall2021/blob/main/Extra-vehicular_Activity__EVA__-_US_and_Russia%20(1).csv
 
   * Which country had the most activities done by an astronaut or cosmonaut outside a spacecraft beyond the Earth's appreciable atmosphere?
   * Answer: 
